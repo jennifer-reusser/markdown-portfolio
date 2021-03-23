@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ - reading *science fiction*
+ - genealogy **for free**
+ - baby animals like __*kittens* and *puppies*__
