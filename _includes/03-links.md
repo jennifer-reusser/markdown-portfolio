@@ -1,1 +1,1 @@
-![GitHub Profile](https://github.com/jennifer-reusser)
+[GitHub Profile](https://github.com/jennifer-reusser)
